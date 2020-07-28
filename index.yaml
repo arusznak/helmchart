@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  jupyterhub:
+  - apiVersion: v1
+    appVersion: 1.1.0
+    created: "2020-04-15T16:58:15.198043959Z"
+    description: Multi-user Jupyter installation
+    digest: 52b3e4167857d0cdf37c285a0117a5a9b39e223d334bf4668015daac80cefd1f
+    home: https://z2jh.jupyter.org
+    icon: https://jupyter.org/assets/hublogo.svg
+    kubeVersion: '>=1.11.0-0'
+    name: jupyterhub
+    sources:
+    - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
+    urls:
+    - https://github.com/arusznak/helmchart/blob/gh-pages/jupyterhub-0.9.0.tgz
+    version: 0.9.0
+generated: "2020-04-15T16:58:15.198043959Z"
