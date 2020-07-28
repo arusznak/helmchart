@@ -13,6 +13,6 @@ entries:
     sources:
     - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
     urls:
-    - https://github.com/arusznak/helmchart/blob/gh-pages/jupyterhub-0.9.0.tgz
+    - https://github.com/arusznak/helmchart/blob/master/jupyterhub-0.9.0.tgz
     version: 0.9.0
 generated: "2020-04-15T16:58:15.198043959Z"
